@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Source/jhotdraw7/src/main/java"/>
+	<classpathentry kind="src" path="Source/jhotdraw7/src/test/java"/>
+	<classpathentry kind="lib" path="Samples/Draw/signed/JHotDraw Draw.jar"/>
+	<classpathentry kind="lib" path="Samples/Draw/signed/jhotdraw_draw.jar"/>
+	<classpathentry kind="lib" path="Samples/Draw/signed/libquaqua.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/Draw/signed/libquaqua64.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/JHotDraw/jhotdraw.jar"/>
+	<classpathentry kind="lib" path="Samples/Net/signed/JHotDraw Net.jar"/>
+	<classpathentry kind="lib" path="Samples/Net/signed/jhotdraw_net.jar"/>
+	<classpathentry kind="lib" path="Samples/Net/signed/libquaqua.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/Net/signed/libquaqua64.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/PERT/signed/JHotDraw PERT.jar"/>
+	<classpathentry kind="lib" path="Samples/PERT/signed/jhotdraw_pert.jar"/>
+	<classpathentry kind="lib" path="Samples/PERT/signed/libquaqua.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/PERT/signed/libquaqua64.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/SVG/signed/JHotDraw SVG.jar"/>
+	<classpathentry kind="lib" path="Samples/SVG/signed/jhotdraw_svg.jar"/>
+	<classpathentry kind="lib" path="Samples/SVG/signed/libquaqua.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/SVG/signed/libquaqua64.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/Teddy/signed/JHotDraw Teddy.jar"/>
+	<classpathentry kind="lib" path="Samples/Teddy/signed/libquaqua.jnilib.jar"/>
+	<classpathentry kind="lib" path="Samples/Teddy/signed/libquaqua64.jnilib.jar"/>
+	<classpathentry kind="lib" path="Source/jhotdraw7/lib/quaqua.jar"/>
+	<classpathentry kind="lib" path="lib/java-plugin-1.6.0.23.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
